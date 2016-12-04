@@ -17,7 +17,7 @@ Class Node is used in BFS and DFS since these two algorithms are not based ob co
 You can run project from all these clases. in **main** function first the tree are initialized then the search method are called.
 the init tree hardcoded in this project is :
 ![alt text][tree]
-[tree]: https://github.com/AhmadMja/AI_Uninformed_TreeSearch_BFS-DFS-UCS/blob/master/tree.PNG "initial tree"
+[tree]: https://github.com/AhmadMja/AI_first_project_BFS-DFS-UCS_Tree_Search/blob/master/tree.PNG "initial tree"
 where **Y** node is Goal.
 All links have same cost=1. You can change costs in code.
 
